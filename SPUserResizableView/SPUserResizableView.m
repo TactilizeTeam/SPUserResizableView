@@ -14,8 +14,8 @@
    what they actually see as the bounding box. */
 #define kSPUserResizableViewGlobalInset 5.0
 
-#define kSPUserResizableViewDefaultMinWidth 48.0
-#define kSPUserResizableViewDefaultMinHeight 48.0
+#define kSPUserResizableViewDefaultMinWidth 1.0
+#define kSPUserResizableViewDefaultMinHeight 1.0
 #define kSPUserResizableViewInteractiveBorderSize 12.0
 
 static SPUserResizableViewAnchorPoint SPUserResizableViewNoResizeAnchorPoint = { 0.0, 0.0, 0.0, 0.0 };
